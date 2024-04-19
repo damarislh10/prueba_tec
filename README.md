@@ -26,8 +26,8 @@ Podras clonar haciendo uso del git clone
 
 ### Crear archivo .env en la raiz con las credenciales de la base de datos
 
-PORT=4000
-DBHOST=localhost
-DBUSER=  
-DBPASS=
-DBNAME=prueba_react  
+PORT=4000<br>
+DBHOST=localhost<br>
+DBUSER=  <br>
+DBPASS=<br>
+DBNAME=prueba_react  <br>
